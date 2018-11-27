@@ -1,12 +1,13 @@
 body {
-	background-color: Green;
+	background-color: Black;
+	font-color: white;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #00FFFF;
+    background-color: #FFA500;
 }
 li {
     float: left;
